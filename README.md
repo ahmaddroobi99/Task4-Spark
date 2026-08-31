@@ -1,19 +1,10 @@
-# Task4-Spark
+# Sparks Foundation task 4 — terrorism EDA
 
-Original Jupyter Notebook coursework / practice repository (2022).
+Sparks Foundation task 4: exploratory data analysis on a global terrorism dataset.
 
-This repository is **original work** on this account. It is kept for provenance.
+**Stack:** Python, Jupyter
 
-It is **not** current research. Featured work:
+---
+Historical **BSc Computer Engineering** work (An-Najah National University, 2022). Kept for provenance — not current research.
 
-- [qg-lada-lab](https://github.com/ahmaddroobi99/qg-lada-lab) — QG Lagrangian data assimilation
-- [ai-perception-lab](https://github.com/ahmaddroobi99/ai-perception-lab) — computer vision lab
-- Profile: [github.com/ahmaddroobi99](https://github.com/ahmaddroobi99)
-
-## Language
-
-Jupyter Notebook
-
-## Year
-
-2022
+Current work: [github.com/ahmaddroobi99](https://github.com/ahmaddroobi99)
